@@ -1,6 +1,0 @@
-debug_output.txt
-push_log.txt
-__pycache__/
-*.pyc
-.venv/
-venv/
