@@ -64,14 +64,4 @@ Post URLs from [@0_shufen](https://www.instagram.com/0_shufen/) — click any li
 
 URLs are also saved to `image_urls.txt`.
 
-## Push to GitHub
 
-To push this project to [GitHub](https://github.com/cherngywh/-Agentic-AI-Coding-Project-2-Extract-Links-of-Images-from-an-Instagram-Account):
-
-```bash
-GITHUB_TOKEN=your_token ./push_to_github.sh
-```
-
-Or run the commands in **DEBUG_PUSH.md** for step-by-step push instructions (run in your Terminal — automated push from IDE may not work due to network).
-
-Create a token at https://github.com/settings/tokens with `repo` scope.
